@@ -1,0 +1,71 @@
+[
+    {
+        "id":0,
+        "companyTitle": "Ata Ticaret Ltd Şti.",
+        "location": "İstanbul",
+        "position": "Ön Muhasebe",
+        "content":"Muhasebe kayıtlarının tutulması ve takibinin yapılması Bankalarla yapılan her türlü işlemin takibi Günlük çek, senet ve banka işlemlerinin kayıt altına alınması Personel özlük işleri, işe giriş ve çıkış işlemlerini yapmak Muhasebe departmanıyla ilgili resmi ve diğer yazmışları takip etmek Aylık faaliyet raporu hazırlamak ve bağlı olduğu yöneticiye sunmak"
+    },
+    {
+        "id":1,
+        "companyTitle": "Sabancı Holding ",
+        "location": "İstanbul",
+        "position": "Muhasebe Müdürü",
+        "content":"Muhasebe kayıtlarının tutulması ve takibinin yapılması Bankalarla yapılan her türlü işlemin takibi Günlük çek, senet ve banka işlemlerinin kayıt altına alınması Personel özlük işleri, işe giriş ve çıkış işlemlerini yapmak Muhasebe departmanıyla ilgili resmi ve diğer yazmışları takip etmek Aylık faaliyet raporu hazırlamak ve bağlı olduğu yöneticiye sunmak"
+
+    },
+    {
+        "id":2,
+        "companyTitle": "Ata Ticaret Ltd Şti.",
+        "location": "İstanbul",
+        "position": "Ön Muhasebe",
+        "content":"Muhasebe kayıtlarının tutulması ve takibinin yapılması Bankalarla yapılan her türlü işlemin takibi Günlük çek, senet ve banka işlemlerinin kayıt altına alınması Personel özlük işleri, işe giriş ve çıkış işlemlerini yapmak Muhasebe departmanıyla ilgili resmi ve diğer yazmışları takip etmek Aylık faaliyet raporu hazırlamak ve bağlı olduğu yöneticiye sunmak"
+
+    },
+    {
+        "id":3,
+        "companyTitle": "Mutemet Dış Ticaret Sanayii",
+        "location": "İzmit",
+        "position": "Bilgisayar Mühendisi",
+        "content":"Firmamız Ankara Merkez ofisimizde görevlendirilme üzere, Görüntü, Otomasyon ve Ses Sistemleri üzerine çalıştırılmak üzere, Üniversitelerin Bilgisayar/Elektronik Mühendisliği  veya diğer ilgili bölümlerinden mezun İngilizceyi işinde rahat kullanabilen Ekip çalışmasına yatkın ve müşteri ile iyi iletişim kurabilen, Askerlikle ilişiği bulunmayan Adaylar aranmaktadır."
+    },
+    {
+        "id":4,
+        "companyTitle": "Turkcell",
+        "location": "Ankara",
+        "position": "Java Developer",
+        "content":"Good degree qualification from a top university in computer science, statistics, mathematics or engineering At least 2 years of experience and knowledge with software engineering using object oriented methodologies in JavaStrong SQL knowledge Hands on experience with Eclipse platform"
+    },
+    {
+        "id":5,
+        "companyTitle": "Toyota",
+        "location": "Sakarya",
+        "position": "Microsoft .net Developer",
+        "content":"Good degree qualification from a top university in computer science, statistics, mathematics or engineering At least 2 years of experience and knowledge with software engineering using object oriented methodologies in JavaStrong SQL knowledge Hands on experience with Eclipse platform"
+
+    },
+    {
+        "id":6,
+        "companyTitle": "Hyundai Assan",
+        "location": "Sakarya",
+        "position": "Ruby Developer",
+        "content":"Good degree qualification from a top university in computer science, statistics, mathematics or engineering At least 2 years of experience and knowledge with software engineering using object oriented methodologies in JavaStrong SQL knowledge Hands on experience with Eclipse platform"
+
+    },
+    {
+        "id":7,
+        "companyTitle": "Amazon",
+        "location": "Londra",
+        "position": "Ruby Developer",
+        "content":"Good degree qualification from a top university in computer science, statistics, mathematics or engineering At least 2 years of experience and knowledge with software engineering using object oriented methodologies in JavaStrong SQL knowledge Hands on experience with Eclipse platform"
+
+    },
+    {
+        "id":8,
+        "companyTitle": "Apple",
+        "location": "California",
+        "position": "IOS Developer",
+        "content":"Good degree qualification from a top university in computer science, statistics, mathematics or engineering At least 2 years of experience and knowledge with software engineering using object oriented methodologies in JavaStrong SQL knowledge Hands on experience with Eclipse platform"
+
+    }
+]
