@@ -91,8 +91,7 @@ export default {
         this.noResults = false;
         this.searching = true;
         this.results = [];
-        // Localde ki port numarasına göre değiştirilir.
-        fetch(`http://localhost:8081/src/assets/data.json`)
+        fetch(`http://`+window.location.host+`/src/assets/data.json`)
             .then(response => response.json())
             .then(response => {
             this.searching = false;
